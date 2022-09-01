@@ -4,3 +4,4 @@
 
 layout: home
 ---
+[frogbots-logo](images/frogbots.png) #FrogBots Nation
